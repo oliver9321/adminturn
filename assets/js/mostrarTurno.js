@@ -1,0 +1,3 @@
+function MostrarTurnoJs(){
+    alert("hola");
+}
